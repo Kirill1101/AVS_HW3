@@ -1,0 +1,6 @@
+Average: 0.30492424242424243
+Container contains 4 elements.
+It is Flower. Type: WILD. Name: Wild_Flower. Quotient of division: 0.2727272727272727
+It is Shrub. Month: JANUARY. Name: Kust-Jan. Quotient of division: 0.25
+It is Flower. Type: HOME. Name: Home_Flower. Quotient of division: 0.36363636363636365
+It is Tree. Age: 123. Name: Tree_Age-123. Quotient of division: 0.3333333333333333
